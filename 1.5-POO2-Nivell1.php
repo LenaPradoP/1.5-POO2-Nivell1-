@@ -1,5 +1,4 @@
 <?php
-require("ClassAnimal.php");
 require("ClassCat.php");
 require("ClassDog.php");
 
